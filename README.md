@@ -5,7 +5,7 @@
 * Combined with career blog for absolute beginner's.
 * user friendly and fully dynamic editor window with lots of options.
 
-![screencapture-localhost-Myresume-editor-index-2021-02-24-16_34_45](https://user-images.githubusercontent.com/55667057/109002566-67188c00-76cc-11eb-9fe6-1fda04cfae2b.png)
+![editor-index](https://user-images.githubusercontent.com/55667057/109004141-5e28ba00-76ce-11eb-90cc-731c0b51475e.png)
 
 ![screencapture-localhost-Myresume-editor-index-2021-02-24-16_35_16](https://user-images.githubusercontent.com/55667057/109003026-ef972c80-76cc-11eb-811f-cfc5b78e4277.png)
 
