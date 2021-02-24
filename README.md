@@ -1,4 +1,4 @@
-# Myresumee
+# Myresume
 
 * It is a simple website to make online resume.
 * This website is fully functional without using database.
