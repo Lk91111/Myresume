@@ -4,6 +4,8 @@
 * This website is fully functional without using database.
 * Combined with career blog for absolute beginner's.
 * user friendly and fully dynamic editor window with lots of options.
+* Multicoloured interface.
+
 
 ![editor-index](https://user-images.githubusercontent.com/55667057/109004141-5e28ba00-76ce-11eb-90cc-731c0b51475e.png)
 
